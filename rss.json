@@ -1,0 +1,205 @@
+[
+  {
+    "kategori": "Gündem",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/0.xml",
+      "https://12punto.com.tr/rss",
+      "https://www.haberturk.com/rss",
+      "https://www.ntv.com.tr/turkiye.rss",
+      "https://www.hurriyet.com.tr/rss/gundem",
+      "https://www.cnnturk.com/feed/rss/all/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-gundem",
+      "https://www.bbc.com/turkce/index.xml"
+    ]
+  },
+  {
+    "kategori": "Yazarlar",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/1.xml",
+      "https://12punto.com.tr/rss/yazarlar",
+      "https://www.haberturk.com/rss/yazarlar.xml",
+      "https://www.hurriyet.com.tr/rss/yazarlar",
+      "https://www.cnnturk.com/feed/rss/yazarlar/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-yazar"
+    ]
+  },
+  {
+    "kategori": "Siyaset",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/2.xml",
+      "https://12punto.com.tr/rss/siyaset",
+      "https://www.hurriyet.com.tr/rss/siyaset"
+    ]
+  },
+  {
+    "kategori": "Dünya",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/4.xml",
+      "https://12punto.com.tr/rss/dunya",
+      "https://www.haberturk.com/rss/dunya.xml",
+      "https://www.ntv.com.tr/dunya.rss",
+      "https://www.hurriyet.com.tr/rss/dunya",
+      "https://www.cnnturk.com/feed/rss/dunya/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-dunya"
+    ]
+  },
+  {
+    "kategori": "Ekonomi",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/5.xml",
+      "https://12punto.com.tr/rss/ekonomi",
+      "https://www.haberturk.com/rss/ekonomi.xml",
+      "https://www.ntv.com.tr/ekonomi.rss",
+      "https://www.hurriyet.com.tr/rss/ekonomi",
+      "https://www.cnnturk.com/feed/rss/ekonomi/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-ekonomi",
+      "https://www.cnbce.com/rss",
+      "https://www.bbc.com/turkce/ekonomi/index.xml"
+    ]
+  },
+  {
+    "kategori": "Kültür&Sanat",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/6.xml",
+      "https://12punto.com.tr/rss/kultur-sanat",
+      "https://www.haberturk.com/rss/kultur-sanat.xml",
+      "https://www.hurriyet.com.tr/rss/kitap-sanat",
+      "https://www.cnnturk.com/feed/rss/kultur-sanat/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-kultur-sanat"
+    ]
+  },
+  {
+    "kategori": "Spor",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/8.xml",
+      "https://12punto.com.tr/rss/spor",
+      "https://www.haberturk.com/rss/spor.xml",
+      "https://www.ntv.com.tr/sporskor.rss",
+      "https://www.hurriyet.com.tr/rss/spor",
+      "https://www.cnnturk.com/feed/rss/spor/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-spor"
+    ]
+  },
+  {
+    "kategori": "Yaşam",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/9.xml",
+      "https://12punto.com.tr/rss/yasam",
+      "https://www.haberturk.com/rss/yasam.xml",
+      "https://www.ntv.com.tr/yasam.rss",
+      "https://www.hurriyet.com.tr/rss/yasam",
+      "https://www.cnnturk.com/feed/rss/yasam/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-yasam"
+    ]
+  },
+  {
+    "kategori": "Bilim&Teknoloji",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/10.xml",
+      "https://12punto.com.tr/rss/bilim-teknoloji",
+      "https://www.haberturk.com/rss/teknoloji.xml",
+      "https://www.ntv.com.tr/teknoloji.rss",
+      "https://www.hurriyet.com.tr/rss/teknoloji",
+      "https://www.cnnturk.com/feed/rss/teknoloji/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-bilim-teknoloji",
+      "https://evrimagaci.org/rss.xml",
+      "https://www.chip.com.tr/rss",
+      "https://www.webtekno.com/rss.xml"
+    ]
+  },
+  {
+    "kategori": "Sağlık",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/11.xml",
+      "https://12punto.com.tr/rss/saglik",
+      "https://www.haberturk.com/rss/saglik.xml",
+      "https://www.ntv.com.tr/saglik.rss",
+      "https://www.cnnturk.com/feed/rss/saglik/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-saglik"
+    ]
+  },
+  {
+    "kategori": "Eğitim",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/13.xml",
+      "https://12punto.com.tr/rss/egitim",
+      "https://www.ntv.com.tr/egitim.rss",
+      "https://www.hurriyet.com.tr/rss/egitim",
+      "https://www.cnnturk.com/feed/rss/egitim/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-egitim"
+    ]
+  },
+  {
+    "kategori": "Astroloji",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/15.xml",
+      "https://www.hurriyet.com.tr/rss/astroloji",
+      "https://www.cnnturk.com/feed/rss/astroloji/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-astroloji"
+    ]
+  },
+  {
+    "kategori": "Magazin",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/17.xml",
+      "https://www.haberturk.com/rss/magazin.xml",
+      "https://www.hurriyet.com.tr/rss/magazin",
+      "https://www.cnnturk.com/feed/rss/magazin/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-magazin"
+    ]
+  },
+  {
+    "kategori": "Otomotiv",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/50.xml",
+      "https://12punto.com.tr/rss/otomotiv",
+      "https://www.haberturk.com/rss/otomobil.xml",
+      "https://www.ntv.com.tr/otomobil.rss",
+      "https://www.cnnturk.com/feed/rss/otomobil/news",
+      "https://www.sozcu.com.tr/feeds-rss-category-otomotiv"
+    ]
+  },
+  {
+    "kategori": "Gurme",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/105.xml",
+      "https://12punto.com.tr/rss/gurme",
+      "https://www.hurriyet.com.tr/rss/lezizz",
+      "https://www.cnnturk.com/feed/rss/yemek-tarifleri/news"
+    ]
+  },
+  {
+    "kategori": "İş Dünyası",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/109.xml",
+      "https://12punto.com.tr/rss/is-dunyasi",
+      "https://www.hurriyet.com.tr/rss/ik"
+    ]
+  },
+  {
+    "kategori": "Dünya Ekonomisi",
+    "rss": [
+      "https://www.cumhuriyet.com.tr/rss/101.xml",
+      "https://www.sozcu.com.tr/feeds-rss-category-finans"
+    ]
+  },
+  {
+    "kategori": "Adalet&Hukuk",
+    "rss": [
+      "https://12punto.com.tr/rss/adalet-hukuk",
+      "https://www.hukukihaber.net/rss/siyaset",
+      "https://www.son.tv/feed/"
+    ]
+  },
+  {
+    "kategori": "Seyahat",
+    "rss": [
+      "https://12punto.com.tr/rss/seyahat",
+      "https://www.hurriyet.com.tr/rss/seyahat",
+      "https://www.cnnturk.com/feed/rss/seyahat/news",
+      "https://blog.turkishairlines.com/tr/feed/",
+      "https://www.tatilbudur.com/blog/feed/",
+      "https://www.flypgs.com/blog/feed/"
+    ]
+  }
+]
