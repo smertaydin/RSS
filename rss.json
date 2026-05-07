@@ -9,7 +9,9 @@
       "https://www.hurriyet.com.tr/rss/gundem",
       "https://www.cnnturk.com/feed/rss/all/news",
       "https://www.sozcu.com.tr/feeds-rss-category-gundem",
-      "https://www.bbc.com/turkce/index.xml"
+      "https://www.bbc.com/turkce/index.xml",
+      "https://onedio.com/Publisher/publisher-gundem.rss",
+      "https://www.trthaber.com/sondakika_articles.rss"
     ]
   },
   {
@@ -40,7 +42,8 @@
       "https://www.ntv.com.tr/dunya.rss",
       "https://www.hurriyet.com.tr/rss/dunya",
       "https://www.cnnturk.com/feed/rss/dunya/news",
-      "https://www.sozcu.com.tr/feeds-rss-category-dunya"
+      "https://www.sozcu.com.tr/feeds-rss-category-dunya",
+      "https://www.trthaber.com/dunya_articles.rss"
     ]
   },
   {
@@ -54,7 +57,10 @@
       "https://www.cnnturk.com/feed/rss/ekonomi/news",
       "https://www.sozcu.com.tr/feeds-rss-category-ekonomi",
       "https://www.cnbce.com/rss",
-      "https://www.bbc.com/turkce/ekonomi/index.xml"
+      "https://www.bbc.com/turkce/ekonomi/index.xml",
+      "https://onedio.com/Publisher/publisher-ekonomi.rss",
+      "https://onedio.com/Publisher/publisher-finans.rss",
+      "https://www.trthaber.com/ekonomi_articles.rss"
     ]
   },
   {
@@ -65,7 +71,9 @@
       "https://www.haberturk.com/rss/kultur-sanat.xml",
       "https://www.hurriyet.com.tr/rss/kitap-sanat",
       "https://www.cnnturk.com/feed/rss/kultur-sanat/news",
-      "https://www.sozcu.com.tr/feeds-rss-category-kultur-sanat"
+      "https://www.sozcu.com.tr/feeds-rss-category-kultur-sanat",
+      "https://www.trthaber.com/kultur_sanat_articles.rss",
+      "https://onedio.com/Publisher/publisher-genel+kultur.rss"
     ]
   },
   {
@@ -77,7 +85,8 @@
       "https://www.ntv.com.tr/sporskor.rss",
       "https://www.hurriyet.com.tr/rss/spor",
       "https://www.cnnturk.com/feed/rss/spor/news",
-      "https://www.sozcu.com.tr/feeds-rss-category-spor"
+      "https://www.sozcu.com.tr/feeds-rss-category-spor",
+      "https://onedio.com/Publisher/publisher-spor.rss"
     ]
   },
   {
@@ -89,7 +98,9 @@
       "https://www.ntv.com.tr/yasam.rss",
       "https://www.hurriyet.com.tr/rss/yasam",
       "https://www.cnnturk.com/feed/rss/yasam/news",
-      "https://www.sozcu.com.tr/feeds-rss-category-yasam"
+      "https://www.sozcu.com.tr/feeds-rss-category-yasam",
+      "https://onedio.com/Publisher/publisher-yasam.rss",
+      "https://www.trthaber.com/yasam_articles.rss"
     ]
   },
   {
@@ -104,7 +115,10 @@
       "https://www.sozcu.com.tr/feeds-rss-category-bilim-teknoloji",
       "https://evrimagaci.org/rss.xml",
       "https://www.chip.com.tr/rss",
-      "https://www.webtekno.com/rss.xml"
+      "https://www.webtekno.com/rss.xml",
+      "https://onedio.com/Publisher/publisher-teknoloji.rss",
+      "https://www.trthaber.com/bilim_teknoloji_articles.rss",
+      "https://www.donanimhaber.com/rss/tum/"
     ]
   },
   {
@@ -115,7 +129,9 @@
       "https://www.haberturk.com/rss/saglik.xml",
       "https://www.ntv.com.tr/saglik.rss",
       "https://www.cnnturk.com/feed/rss/saglik/news",
-      "https://www.sozcu.com.tr/feeds-rss-category-saglik"
+      "https://www.sozcu.com.tr/feeds-rss-category-saglik",
+      "https://onedio.com/Publisher/publisher-saglik.rss",
+      "https://www.trthaber.com/saglik_articles.rss"
     ]
   },
   {
@@ -126,7 +142,9 @@
       "https://www.ntv.com.tr/egitim.rss",
       "https://www.hurriyet.com.tr/rss/egitim",
       "https://www.cnnturk.com/feed/rss/egitim/news",
-      "https://www.sozcu.com.tr/feeds-rss-category-egitim"
+      "https://www.sozcu.com.tr/feeds-rss-category-egitim",
+      "https://onedio.com/Publisher/publisher-egitim.rss",
+      "https://www.trthaber.com/egitim_articles.rss"
     ]
   },
   {
@@ -135,7 +153,8 @@
       "https://www.cumhuriyet.com.tr/rss/15.xml",
       "https://www.hurriyet.com.tr/rss/astroloji",
       "https://www.cnnturk.com/feed/rss/astroloji/news",
-      "https://www.sozcu.com.tr/feeds-rss-category-astroloji"
+      "https://www.sozcu.com.tr/feeds-rss-category-astroloji",
+      "https://onedio.com/Publisher/publisher-yazio.rss"
     ]
   },
   {
@@ -145,7 +164,8 @@
       "https://www.haberturk.com/rss/magazin.xml",
       "https://www.hurriyet.com.tr/rss/magazin",
       "https://www.cnnturk.com/feed/rss/magazin/news",
-      "https://www.sozcu.com.tr/feeds-rss-category-magazin"
+      "https://www.sozcu.com.tr/feeds-rss-category-magazin",
+      "https://onedio.com/Publisher/publisher-magazin.rss"
     ]
   },
   {
@@ -156,7 +176,9 @@
       "https://www.haberturk.com/rss/otomobil.xml",
       "https://www.ntv.com.tr/otomobil.rss",
       "https://www.cnnturk.com/feed/rss/otomobil/news",
-      "https://www.sozcu.com.tr/feeds-rss-category-otomotiv"
+      "https://www.sozcu.com.tr/feeds-rss-category-otomotiv",
+      "https://tr.motor1.com/rss/news/all/",
+      "https://www.otoaktuel.com.tr/rss"
     ]
   },
   {
@@ -165,7 +187,8 @@
       "https://www.cumhuriyet.com.tr/rss/105.xml",
       "https://12punto.com.tr/rss/gurme",
       "https://www.hurriyet.com.tr/rss/lezizz",
-      "https://www.cnnturk.com/feed/rss/yemek-tarifleri/news"
+      "https://www.cnnturk.com/feed/rss/yemek-tarifleri/news",
+      "https://onedio.com/Publisher/publisher-yemek.rss"
     ]
   },
   {
@@ -199,7 +222,8 @@
       "https://www.cnnturk.com/feed/rss/seyahat/news",
       "https://blog.turkishairlines.com/tr/feed/",
       "https://www.tatilbudur.com/blog/feed/",
-      "https://www.flypgs.com/blog/feed/"
+      "https://www.flypgs.com/blog/feed/",
+      "https://onedio.com/Publisher/publisher-seyahat.rss"
     ]
   }
 ]
