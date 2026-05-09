@@ -1,24 +1,90 @@
 {
-  "12punto.com.tr": "12punto",
-  "bbc.com": "BBC Türkçe",
-  "blog.turkishairlines.com": "Turkish Airlines",
-  "chip.com.tr": "CHIP Online",
-  "cnbce.com": "CNBC-e",
-  "cnnturk.com": "CNN Türk",
-  "cumhuriyet.com.tr": "Cumhuriyet",
-  "evrimagaci.org": "Evrim Ağacı",
-  "flypgs.com": "Pegasus",
-  "haberturk.com": "Habertürk",
-  "hukukihaber.net": "Hukuki Haber",
-  "hurriyet.com.tr": "Hürriyet",
-  "ntv.com.tr": "NTV",
-  "son.tv": "Son TV",
-  "sozcu.com.tr": "Sözcü",
-  "tatilbudur.com": "TatilBudur",
-  "webtekno.com": "Webtekno",
-  "trthaber.com": "TRT Haber",
-  "onedio.com": "Onedio",
-  "donanimhaber.com": "Donanım Haber",
-  "tr.motor1.com": "Motor1",
-  "otoaktuel.com.tr": "Oto Aktüel"
+  "12punto.com.tr": {
+    "name": "12punto",
+    "country_code": "TR"
+  },
+  "bbc.com": {
+    "name": "BBC Türkçe",
+    "country_code": "TR"
+  },
+  "blog.turkishairlines.com": {
+    "name": "Turkish Airlines",
+    "country_code": "TR"
+  },
+  "chip.com.tr": {
+    "name": "CHIP Online",
+    "country_code": "TR"
+  },
+  "cnbce.com": {
+    "name": "CNBC-e",
+    "country_code": "TR"
+  },
+  "cnnturk.com": {
+    "name": "CNN Türk",
+    "country_code": "TR"
+  },
+  "cumhuriyet.com.tr": {
+    "name": "Cumhuriyet",
+    "country_code": "TR"
+  },
+  "evrimagaci.org": {
+    "name": "Evrim Ağacı",
+    "country_code": "TR"
+  },
+  "flypgs.com": {
+    "name": "Pegasus",
+    "country_code": "TR"
+  },
+  "haberturk.com": {
+    "name": "Habertürk",
+    "country_code": "TR"
+  },
+  "hukukihaber.net": {
+    "name": "Hukuki Haber",
+    "country_code": "TR"
+  },
+  "hurriyet.com.tr": {
+    "name": "Hürriyet",
+    "country_code": "TR"
+  },
+  "ntv.com.tr": {
+    "name": "NTV",
+    "country_code": "TR"
+  },
+  "son.tv": {
+    "name": "Son TV",
+    "country_code": "TR"
+  },
+  "sozcu.com.tr": {
+    "name": "Sözcü",
+    "country_code": "TR"
+  },
+  "tatilbudur.com": {
+    "name": "TatilBudur",
+    "country_code": "TR"
+  },
+  "webtekno.com": {
+    "name": "Webtekno",
+    "country_code": "TR"
+  },
+  "trthaber.com": {
+    "name": "TRT Haber",
+    "country_code": "TR"
+  },
+  "onedio.com": {
+    "name": "Onedio",
+    "country_code": "TR"
+  },
+  "donanimhaber.com": {
+    "name": "Donanım Haber",
+    "country_code": "TR"
+  },
+  "tr.motor1.com": {
+    "name": "Motor1",
+    "country_code": "TR"
+  },
+  "otoaktuel.com.tr": {
+    "name": "Oto Aktüel",
+    "country_code": "TR"
+  }
 }
