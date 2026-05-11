@@ -1,90 +1,134 @@
 {
   "12punto.com.tr": {
     "name": "12punto",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": ""
   },
   "bbc.com": {
     "name": "BBC Türkçe",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "UCeMQiXmFNTtN3OHlNJxnnUw",
+    "youtube_playlist": ""
   },
   "blog.turkishairlines.com": {
     "name": "Turkish Airlines",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": ""
   },
   "chip.com.tr": {
     "name": "CHIP Online",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": ""
   },
   "cnbce.com": {
     "name": "CNBC-e",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "UCaO-M1dXacMwtyg0Pvovk4w",
+    "youtube_playlist": ""
   },
   "cnnturk.com": {
     "name": "CNN Türk",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": "PLAbfIsE_fjFMNIllUL2R3joSOgsiHXwRt"
   },
   "cumhuriyet.com.tr": {
     "name": "Cumhuriyet",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": "PLYgRFgmG47Mt0mfd4zWSa6nuonne3AHSJ"
   },
   "evrimagaci.org": {
     "name": "Evrim Ağacı",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "UCatnasFAiXUvWwH8NlSdd3A",
+    "youtube_playlist": ""
   },
   "flypgs.com": {
     "name": "Pegasus",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": ""
   },
   "haberturk.com": {
     "name": "Habertürk",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": "PL0QFxC-u5wRGwwRGzjD-ACFKUVUeMotiy"
   },
   "hukukihaber.net": {
     "name": "Hukuki Haber",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": ""
   },
   "hurriyet.com.tr": {
     "name": "Hürriyet",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": ""
   },
   "ntv.com.tr": {
     "name": "NTV",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": "PLW6WtLG3vGgSoEdYIlWtq7EY8_U6SkOVV"
   },
   "son.tv": {
     "name": "Son TV",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": ""
   },
   "sozcu.com.tr": {
     "name": "Sözcü",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": "PLK3Fc-D3r2W3PSjV-4xJm7mfnZEtQm0pR"
   },
   "tatilbudur.com": {
     "name": "TatilBudur",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": ""
   },
   "webtekno.com": {
     "name": "Webtekno",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "UC26buublzO30XpR-KP2TfAw",
+    "youtube_playlist": ""
   },
   "trthaber.com": {
     "name": "TRT Haber",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": "PLZ5AxhlnKvj4wtTeG2I3wG9o-Q_R9kTfi"
   },
   "onedio.com": {
     "name": "Onedio",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "UCRr2Ib2uv9JSr77h6dY1d3A",
+    "youtube_playlist": ""
   },
   "donanimhaber.com": {
     "name": "Donanım Haber",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "UCfIVTpOAjmeKmaiBd3rfwlA",
+    "youtube_playlist": ""
   },
   "tr.motor1.com": {
     "name": "Motor1",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "UCIqHQIw_T5YP5EKxKfUQ8pQ",
+    "youtube_playlist": ""
   },
   "otoaktuel.com.tr": {
     "name": "Oto Aktüel",
-    "country_code": "TR"
+    "country_code": "TR",
+    "youtube_channel": "",
+    "youtube_playlist": ""
   }
 }
