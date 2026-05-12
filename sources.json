@@ -108,5 +108,45 @@
     "name": "Oto Aktüel",
     "country_code": "TR",
     "youtube": ""
+  },
+  "theguardian.com": {
+    "name": "The Guardian",
+    "country_code": "GB",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHpw8xwDNhU9gdohEcJu4aA"
+  },
+  "nytimes.com": {
+    "name": "The New York Times",
+    "country_code": "US",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqnbDFdCpuN8CMEg0VuEBqA"
+  },
+  "dailymail.com": {
+    "name": "The Daily Mail",
+    "country_code": "GB",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw3fku0sH3qA3c3pZeJwdAw"
+  },
+  "cbsnews.com": {
+    "name": "CBS News",
+    "country_code": "US",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLEb3ThbkPrFaxsdGO6vYLwCI8O27GdEKY"
+  },
+  "nypost.com": {
+    "name": "NY Post",
+    "country_code": "US",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLwNrNqsuwF1n2zRpkfN3DTKOlXYGEAxH1"
+  },
+  "bbci.co.uk": {
+    "name": "BBC News",
+    "country_code": "GB",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?channel_id=UC16niRr50-MSBwiO3YDb3RA"
+  },
+  "aljazeera.com": {
+    "name": "Al Jazeera",
+    "country_code": "QA",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzGHKb8i9vTwGUsrdmC7Kk7JmRbJ1OCIh"
+  },
+  "scmp.com": {
+    "name": "South China Morning Post",
+    "country_code": "HK",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4SUWizzKc1tptprBkWjX2Q"
   }
 }
