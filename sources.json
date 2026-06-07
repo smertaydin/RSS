@@ -148,5 +148,20 @@
     "name": "South China Morning Post",
     "country_code": "HK",
     "youtube": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4SUWizzKc1tptprBkWjX2Q"
+  },
+  "haberglobal.com": {
+    "name": "Haber Global",
+    "country_code": "TR",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLKS8h4fX7u5fBc82DiaczDg0SA4Yv3YL2"
+  },
+  "kontraspor.com": {
+    "name": "Kontra Spor",
+    "country_code": "TR",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHjbBVD4yRI7vU-S9Pwpnkw"
+  },
+  "ajansspor.com": {
+    "name": "Ajans Spor",
+    "country_code": "TR",
+    "youtube": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkw_UteLQ3bqqQ6sMYV20aA"
   }
 }
